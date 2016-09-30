@@ -1,0 +1,17 @@
+{
+    "name":"zhangxiaoma/foxphp",
+    "description":"zhangxiaoma project",
+    "keywords":["zhangxiaoma","foxphp"],
+    "homepage":"http://www.xiaosago.com/",
+    "license":["Apache-2.0","GPL-2.0+"],
+    "authors":[
+        {
+            "name":"zhangxiaoma",
+            "homepage":"http://www.xiaosago.com/"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "files":["index.php"]
+    }
+}
